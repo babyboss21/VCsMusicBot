@@ -1,4 +1,4 @@
-<h1 align="centre">VCsMusicBot v5.0</h1>
+<h1 align="centre">babyMusicBot v5.0</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://telegra.ph/file/e8cc2e942567da80cab45.jpg">
-     <img height="200px" src="https://telegra.ph/file/e8cc2e942567da80cab45.jpg">
+  <a href="https://te.legra.ph/file/a98caddaecc0dc83adbb9.jpg">
+     <img height="200px" src="https://te.legra.ph/file/a98caddaecc0dc83adbb9.jpg">
   </a>
 </p>
 
